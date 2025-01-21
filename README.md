@@ -1,4 +1,4 @@
-Neural Network Model using TensorFlow
+Neural Network Model using TensorFlow by Steven SHYAKA and Festus BIGIRIMANA
 Project Description
 This project demonstrates how to build, compile, and train a neural network using TensorFlow. The neural network is designed for multi-class classification, incorporating preprocessing, model building, training, and evaluation. It includes saving the trained model and making predictions on unseen data.
 
@@ -202,6 +202,3 @@ Customization
 Replace the dataset path in the code with your own dataset.
 Modify the model architecture to suit your dataset if needed.
 Experiment with hyperparameters (e.g., learning rate, batch size, epochs).
-
-License
-This project is open-source and available under the MIT License.
